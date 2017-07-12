@@ -9,6 +9,7 @@
   width:1024px;
   margin: 0 auto;
   overflow: hidden;
+  padding-bottom: 40px;
 }
 .nav{
   float: right;
@@ -30,10 +31,9 @@ h1{
 h1 a{
   background: url(./16.png) no-repeat;
   background-size: 48px 48px;
-  display: block;
+  display: inline-block;
   height: 100%;
   padding:20px 0 20px 60px;
-  color: #f2b535;
   margin-top: 5px
 }
 a{

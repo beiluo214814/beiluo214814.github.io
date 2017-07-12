@@ -12,11 +12,14 @@ export default class Head extends Page {
               title:"博客",
               link:"#/list"
             },{
-              title:"Github",
-              link:"#/index"
-            },{
               title:"关于",
-              link:"#/index"
+              link:"#/about"
+            },{
+              title:"",
+              link:""
+            },{
+              title:"",
+              link:""
             }]
       }
   }

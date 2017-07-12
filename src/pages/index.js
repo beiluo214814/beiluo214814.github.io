@@ -27,7 +27,7 @@ export default class Index extends Page {
       				</ul>
       			</dd>
       			<dd>
-      				<h3>关于</h3>
+      				<h3>作者</h3>
       				<ul className="index-rt-list">
       					<li>个人简介：<a href="#/about">去这里</a></li>
       					<li>文章：{articleList.length}篇</li>
