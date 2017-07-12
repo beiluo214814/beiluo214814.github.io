@@ -29,7 +29,7 @@ h1{
   overflow: hidden;
 }
 h1 a{
-  background: url(./16.png) no-repeat;
+  background: url(16.png) no-repeat;
   background-size: 48px 48px;
   display: inline-block;
   height: 100%;

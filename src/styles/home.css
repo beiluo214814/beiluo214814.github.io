@@ -1,7 +1,7 @@
 .home-main{
   height: 100%;
   width: 100%;
-  background:#999 url(./home.jpg) center top no-repeat;
+  background:#999 url(home.jpg) center top no-repeat;
   background-size: 100% auto;
 }
 .main-wrapper{
