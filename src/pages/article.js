@@ -17,7 +17,7 @@ export default class Index extends Page {
   	const path = `/article/${filePath}.md`
     return (
       <div className="main">
-      	<Head currentIndex="2"/>
+      	<Head currentIndex="1"/>
       	<div className="at-article-wrapper">
       		<AsyncComponent comFn={articles[0].component()}/>
       	</div>
